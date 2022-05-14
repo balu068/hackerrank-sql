@@ -1,2 +1,2 @@
 # hackerrank-sql
-This repo contain submission for hackerrank medium sql challenges 
+This repo contain submission for hackerrank medium and hard sql challenges 
